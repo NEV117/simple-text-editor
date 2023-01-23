@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-text-editor/static/css/main.f19cba9b.css",
+    "main.js": "/simple-text-editor/static/js/main.f3131dea.js",
+    "index.html": "/simple-text-editor/index.html",
+    "main.f19cba9b.css.map": "/simple-text-editor/static/css/main.f19cba9b.css.map",
+    "main.f3131dea.js.map": "/simple-text-editor/static/js/main.f3131dea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f19cba9b.css",
+    "static/js/main.f3131dea.js"
+  ]
+}
