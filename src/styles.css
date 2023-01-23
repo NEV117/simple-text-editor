@@ -60,6 +60,6 @@ body {
   .container .ql-toolbar.ql-snow {
     display: flex;
     flex-wrap: wrap;
-    min-width: 500px;
+    min-width: 400px;
   }
 }
